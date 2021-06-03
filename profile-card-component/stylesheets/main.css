@@ -36,13 +36,12 @@ body {
   flex-direction: column;
   margin-bottom: 4rem;
   max-width: 35rem;
+  overflow: hidden;
   width: 100%;
 }
 
 .c-profile header {
   background: url('../images/bg-pattern-card.svg') center center no-repeat;
-  border-top-left-radius: 1rem;
-  border-top-right-radius: 1rem;
   min-height: 13.8rem;
   position: relative;
   text-align: center;
